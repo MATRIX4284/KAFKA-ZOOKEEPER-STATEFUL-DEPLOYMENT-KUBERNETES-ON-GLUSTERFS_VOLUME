@@ -1,4 +1,4 @@
-# KAFAK-ZOOKEEPER-STATEFUL-ON-GLUSTERFS_VOLUME
+# KAFKA-ZOOKEEPER-STATEFUL-DEPLOYMENT-KUBERNETES-ON-GLUSTERFS_VOLUME
 
 This Deployment shows how to Set Up a Kafka Deployment on Kubernetes.
 As Kafka needs Zookeeper hence Zookeeper has also been deployed in a Stateful manner in Kubernetes.
